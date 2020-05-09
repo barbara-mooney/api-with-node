@@ -1,6 +1,3 @@
-//Check-auth middleware checks if user is authorized to access certain routes. We will add it 
-//to check if it makes sense to continue to the requested route.
-
 const jwt = require('jsonwebtoken');
 require('dotenv').config();
 
